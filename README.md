@@ -97,6 +97,11 @@ JSON responses appear in the inspector section
 
 * Press Ctrl+C in the terminal running run_all.py. All services will shut down gracefully.
 
+## Sample queries 
+* i have fever what should i do
+* how many players in football
+* How to avoid injuries while running and stay healthy
+
 
 
 
